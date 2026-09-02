@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Backend • 🧠 DSA • 🤖 AI • 📷 Photography • ☕ Questionable Life Choices</b>
+  <b>💻 Backend • 🧠 DSA • 🤖 AI • ☕ Questionable Life Choices</b>
 </p>
 
 ---
