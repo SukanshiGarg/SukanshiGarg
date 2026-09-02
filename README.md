@@ -172,13 +172,12 @@ DP             ██████░░░░░░░░░░░░░░
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
-  <img 
+  <img
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=SukanshiGarg&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF&icon_color=00B4D8"
   />
-  <img 
+  <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukanshiGarg&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF"
   />
@@ -189,9 +188,10 @@ DP             ██████░░░░░░░░░░░░░░
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SukanshiGarg&theme=dark&hide_border=true&background=0D1B2A&ring=00B4D8&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=EAF6FF&dates=8BA3B5" />
+  <img
+    src="https://streak-stats.demolab.com?user=SukanshiGarg&theme=dark&hide_border=true&background=0D1B2A&ring=00B4D8&fire=4FC3F7&currStreakLabel=4FC3F7"
+  />
 </p>
-
 <p align="center">
   <i>Apparently touching grass doesn't count as a GitHub contribution.</i> 🌱</p>
 
