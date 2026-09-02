@@ -171,24 +171,6 @@ Currently fighting **LeetCode** one problem at a time.
   />
 </p>
 ```
-
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SukanshiGarg&theme=dark&hide_border=true&background=0D1B2A&ring=00B4D8&fire=4FC3F7&currStreakLabel=4FC3F7"
-  />
-</p>
-
-<p align="center">
-  <i>Apparently touching grass doesn't count as a GitHub contribution.</i> 🌱
-</p>
-
----
-
 # 🌱 Currently Learning
 
 ```text
