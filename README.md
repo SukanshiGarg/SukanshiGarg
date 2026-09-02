@@ -1,9 +1,10 @@
+````markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A4D68,100:00B4D8&height=200&section=header&text=Sukanshi%20Garg&fontSize=48&fontColor=EAF6FF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sukanshi+%F0%9F%91%8B;CSE+Student+%7C+Backend+Developer+%7C+Professional+Debugger;I+write+code.+Sometimes+it+even+works.+%F0%9F%98%AD;Currently+surviving+DSA%2C+Backend+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=24&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sukanshi+%F0%9F%91%8B;CSE+Student+%7C+Backend+Developer+%7C+Professional+Debugger;I+write+code.+Sometimes+it+even+works.+%F0%9F%98%AD;Currently+surviving+DSA%2C+Backend+%26+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,20 +24,18 @@
 
 ## 👩🏻‍💻 Who am I?
 
-I'm a **Computer Science student** who likes building things and then discovering
-that I accidentally broke three other things.
+I'm a **Computer Science student** who likes building things and then discovering that I accidentally broke three other things.
 
 Currently I'm:
 
-* 🛠️ Building backend APIs with **Node.js & Express**
-* 🧠 Practicing **DSA in Java**
-* 🗄️ Learning databases, authentication & backend architecture
-* 🤖 Exploring **AI-powered applications**
-* 📷 Trying to get into photography
-* 🧯 Debugging problems I definitely did not create.
-  *(I created them.)*
+- 🛠️ Building backend APIs with **Node.js & Express**
+- 🧠 Practicing **DSA in Java**
+- 🗄️ Learning databases, authentication & backend architecture
+- 🤖 Exploring **AI-powered applications**
+- 📷 Trying to get into photography
+- 🧯 Debugging problems I definitely did not create. *(I created them.)*
 
-My development methodology:
+### My development methodology
 
 ```text
 Have an idea
@@ -55,8 +54,10 @@ Remove console.log()
      ↓
 It doesn't work again
      ↓
-Cry
-```
+Google it
+     ↓
+Pretend I knew the answer
+````
 
 ---
 
@@ -94,13 +95,11 @@ Cry
 
 ---
 
-## 🚀 Things I've Built
+# 🚀 Things I've Built
 
 ### ✦ CaptionAI
 
 An AI-powered SaaS platform for generating and managing social media content for medical and dental practices.
-
-Basically:
 
 ```text
 User has no caption
@@ -110,12 +109,15 @@ AI generates caption
 User gets suspicious
         ↓
 "Actually... this is pretty good."
+        ↓
+Post scheduled
+        ↓
+Productivity achieved ✨
 ```
 
-**Stack:**
-`Next.js` `PostgreSQL` `Prisma` `Supabase` `Clerk` `AI`
+**Stack:** `Next.js` `PostgreSQL` `Prisma` `Supabase` `Clerk` `AI`
 
-🔗 **[View Project](caption-ai-roan.vercel.app)**
+🔗 **[View Project](https://caption-ai-roan.vercel.app)**
 
 ---
 
@@ -123,41 +125,33 @@ User gets suspicious
 
 A real-time restaurant POS and Kitchen Display System.
 
-Because apparently managing restaurant orders wasn't stressful enough,
-I decided to make the software responsible for it too.
+Because apparently managing restaurant orders wasn't stressful enough, I decided to make the software responsible for it too.
 
-**Stack:**
-`Node.js` `MOngoDB` `Express.js` `React`
+**Stack:** `Node.js` `Express` `MongoDB` `React`
 
-🔗 **[View Project](pos-frontend-five-murex.vercel.app)**
+🔗 **[View Project](https://pos-frontend-five-murex.vercel.app)**
 
 ---
 
 ### ✦ Music Artist Backend
 
-A backend practice project where I learned authentication, authorization,
-file uploads, cloud storage and MongoDB relationships.
+A backend practice project where I learned authentication, authorization, file uploads, cloud storage and MongoDB relationships.
 
-**Stack:**
-`Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Multer` `ImageKit`
+**Stack:** `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Multer` `ImageKit`
 
-🔗 **[View Project](https://github.com/SukanshiGarg/music-artist-backend)**
+🔗 **[GitHub Repository](https://github.com/SukanshiGarg/music-artist-backend)**
 
 ---
 
-## 🧠 DSA Journey
+# 🧠 DSA Journey
 
 Currently solving problems on **LeetCode**.
-
-Some days:
 
 ```text
 Easy   → 😎
 Medium → 🤔
 Hard   → "Interesting."
 ```
-
-My current DSA progress:
 
 ```text
 Arrays         ████████████████████
@@ -169,43 +163,52 @@ Trees          ████████████░░░░░░░░
 Graphs         ████████░░░░░░░░░░░░
 DP             ██████░░░░░░░░░░░░░░
 ```
+
+> Progress is not linear. Neither is my ability to solve a Medium question without staring at it for 45 minutes.
+
 ---
 
 # 📊 GitHub Stats
+
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SukanshiGarg&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF&icon_color=00B4D8"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=SukanshiGarg&show_icons=true&theme=transparent&hide_border=true"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukanshiGarg&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukanshiGarg&layout=compact&theme=transparent&hide_border=true"
   />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=SukanshiGarg&theme=dark&hide_border=true&background=0D1B2A&ring=00B4D8&fire=4FC3F7&currStreakLabel=4FC3F7"
   />
 </p>
-<p align="center">
-  <i>Apparently touching grass doesn't count as a GitHub contribution.</i> 🌱</p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SukanshiGarg&bg_color=0D1B2A&color=EAF6FF&line=00B4D8&point=4FC3F7&area=true&hide_border=true" />
+  <i>Apparently touching grass doesn't count as a GitHub contribution.</i> 🌱
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 📈 Contribution Graph
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SukanshiGarg&theme=github-compact&hide_border=true"
+  />
+</p>
+
+---
+
+# 🌱 Currently Learning
 
 ```text
 Backend Development
@@ -233,18 +236,16 @@ And Google is definitely part of that process. 💀
 
 ---
 
-## 📷 Beyond Code
+# 📷 Beyond Code
 
 When I'm not staring at a terminal, I'm trying to get into **photography**.
 
-Current equipment:
-
 ```text
-Camera      : 📱
-Photography: 📷
-Confidence  : ███████░░░
-Skill       : ████░░░░░░
-Storage     : "Your phone storage is full."
+Camera       : 📱
+Photography  : 📷
+Confidence   : ███████░░░
+Skill        : ████░░░░░░
+Storage      : "Your phone storage is full."
 ```
 
 Still figuring out cameras.
@@ -257,7 +258,7 @@ Still taking way too many photos.
 
 ---
 
-## 💭 Random Facts
+# 💭 Random Facts
 
 * I will spend **30 minutes debugging** before realizing I forgot a semicolon.
 * I believe `console.log()` deserves more respect than it gets.
@@ -265,17 +266,18 @@ Still taking way too many photos.
 * "I'll do it tomorrow" is currently one of my most used productivity techniques.
 * I genuinely enjoy understanding **what happens behind the scenes**.
 * If something works on the first try, I become suspicious.
+* I sometimes fix a bug and then become afraid to touch the code again.
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 <p align="center">
   <a href="https://github.com/SukanshiGarg">
-    <img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=4FC3F7" />
+    <img src="https://img.shields.io/badge/GitHub-SukanshiGarg-0D1B2A?style=for-the-badge&logo=github&logoColor=4FC3F7" />
   </a>
   <a href="https://www.linkedin.com/in/sukanshi-garg/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sukanshi%20Garg-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" />
   </a>
 </p>
 
@@ -292,3 +294,4 @@ Still taking way too many photos.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0A4D68,100:0D1B2A&height=100&section=footer" />
 </p>
+```
