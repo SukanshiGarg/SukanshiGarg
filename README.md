@@ -189,17 +189,6 @@ Currently fighting **LeetCode** one problem at a time.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SukanshiGarg&theme=github-compact&hide_border=true"
-  />
-</p>
-
----
-
 # 🌱 Currently Learning
 
 ```text
@@ -231,14 +220,6 @@ And Google is definitely part of that process. 💀
 # 📷 Beyond Code
 
 When I'm not staring at a terminal, I'm trying to get into **photography**.
-
-```text
-Camera       : 📱
-Photography  : 📷
-Confidence   : ███████░░░
-Skill        : ████░░░░░░
-Storage      : "Your phone storage is full."
-```
 
 Still figuring out cameras.
 
