@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sukanshi+%F0%9F%91%8B;CSE+Student+%7C+Web+Developer+%7C+Problem+Solver;Building+things+%26+debugging+them+since+forever+%F0%9F%98%AD;Currently+exploring+Backend%2C+DSA+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sukanshi+%F0%9F%91%8B;CSE+Student+%7C+Backend+Developer+%7C+Professional+Debugger;I+write+code.+Sometimes+it+even+works.+%F0%9F%98%AD;Currently+surviving+DSA%2C+Backend+%26+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,27 +16,46 @@
 </p>
 
 <p align="center">
-  <b>💻 Web Devlopment • 🧠 DSA • 🤖 AI • 🌊 Always Learning</b>
+  <b>💻 Backend • 🧠 DSA • 🤖 AI • 📷 Photography • ☕ Questionable Life Choices</b>
 </p>
 
 ---
 
-## 🌊 A little about me
+## 👩🏻‍💻 Who am I?
 
-I'm a **Computer Science student** who enjoys understanding how things work behind the screen.
+I'm a **Computer Science student** who likes building things and then discovering
+that I accidentally broke three other things.
 
-Currently, I'm spending most of my time:
+Currently I'm:
 
 * 🛠️ Building backend APIs with **Node.js & Express**
 * 🧠 Practicing **DSA in Java**
-* 🗄️ Learning more about **databases & backend architecture**
+* 🗄️ Learning databases, authentication & backend architecture
 * 🤖 Exploring **AI-powered applications**
-* 🚀 Turning random ideas into actual projects
+* 📷 Trying to get into photography
+* 🧯 Debugging problems I definitely did not create.
+  *(I created them.)*
 
-I like learning by building — which usually means:
+My development methodology:
 
 ```text
-Build → Break → Debug → Understand → Repeat
+Have an idea
+     ↓
+Write code
+     ↓
+It doesn't work
+     ↓
+Stare at it
+     ↓
+Add console.log()
+     ↓
+It works
+     ↓
+Remove console.log()
+     ↓
+It doesn't work again
+     ↓
+Cry
 ```
 
 ---
@@ -81,6 +100,18 @@ Build → Break → Debug → Understand → Repeat
 
 An AI-powered SaaS platform for generating and managing social media content for medical and dental practices.
 
+Basically:
+
+```text
+User has no caption
+        ↓
+AI generates caption
+        ↓
+User gets suspicious
+        ↓
+"Actually... this is pretty good."
+```
+
 **Stack:**
 `Next.js` `PostgreSQL` `Prisma` `Supabase` `Clerk` `AI`
 
@@ -92,6 +123,9 @@ An AI-powered SaaS platform for generating and managing social media content for
 
 A real-time restaurant POS and Kitchen Display System.
 
+Because apparently managing restaurant orders wasn't stressful enough,
+I decided to make the software responsible for it too.
+
 **Stack:**
 `Node.js` `PostgreSQL` `Redis` `WebSockets`
 
@@ -101,7 +135,16 @@ A real-time restaurant POS and Kitchen Display System.
 
 ### ✦ Music Artist Backend
 
-A backend practice project built while learning authentication, authorization, file uploads, cloud storage and MongoDB relationships.
+A backend practice project where I learned authentication, authorization,
+file uploads, cloud storage and MongoDB relationships.
+
+Also known as:
+
+> "Let me just learn backend by building something."
+
+Three hours later:
+
+> "Why is my middleware not working?"
 
 **Stack:**
 `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Multer` `ImageKit`
@@ -112,7 +155,17 @@ A backend practice project built while learning authentication, authorization, f
 
 ## 🧠 DSA Journey
 
-Currently solving problems on **LeetCode** and strengthening my problem-solving fundamentals.
+Currently solving problems on **LeetCode**.
+
+Some days:
+
+```text
+Easy   → 😎
+Medium → 🤔
+Hard   → "Interesting."
+```
+
+My current DSA progress:
 
 ```text
 Arrays         ████████████████████
@@ -125,17 +178,30 @@ Graphs         ████████░░░░░░░░░░░░
 DP             ██████░░░░░░░░░░░░░░
 ```
 
-> **Understand the pattern, don't memorize the solution.**
-
-And occasionally:
+My relationship with LeetCode:
 
 ```text
-LeetCode:
-"Medium"
+LeetCode: "This is a Medium."
 
-Me:
-"yeah sure, I'll do it tomorrow." 💀
+Me: "Okay."
+
+LeetCode: *shows 47 lines of editorial*
+
+Me: "I'll come back tomorrow."
+
+Tomorrow:
+
+Me: "Okay let's do this."
+
+LeetCode: *same question*
+
+Me: "Why do I recognize you?"
 ```
+
+> **Understand the pattern. Don't memorize the solution.**
+>
+> Also, if the solution is 7 lines and mine is 37,
+> we're simply approaching the problem creatively.
 
 ---
 
@@ -153,6 +219,9 @@ Me:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SukanshiGarg&theme=dark&hide_border=true&background=0D1B2A&ring=00B4D8&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=EAF6FF&dates=8BA3B5" />
 </p>
+
+<p align="center">
+  <i>Apparently touching grass doesn't count as a GitHub contribution.</i> 🌱</p>
 
 ---
 
@@ -173,20 +242,38 @@ Authentication & Authorization
         ↓
 Databases & API Design
         ↓
-System Design Fundamentals
+System Design
         ↓
 AI-powered applications
+        ↓
+"Wait... why is my API returning 500?"
+        ↓
+Debugging
+        ↓
+Character Development
 ```
 
 The goal isn't to know everything.
 
-It's to get a little better at **figuring things out** every day.
+It's to become the person who can eventually figure out **why something isn't working**.
+
+And Google is definitely part of that process. 💀
 
 ---
 
-## 🌊 Beyond Code
+## 📷 Beyond Code
 
-When I'm not staring at a terminal, I enjoy **photography**.
+When I'm not staring at a terminal, I'm trying to get into **photography**.
+
+Current equipment:
+
+```text
+Camera      : 📱
+Photography: 📷
+Confidence  : ███████░░░
+Skill       : ████░░░░░░
+Storage     : "Your phone storage is full."
+```
 
 Still figuring out cameras.
 
@@ -195,6 +282,17 @@ Still figuring out composition.
 Still taking way too many photos.
 
 📷 *The camera may be bad. The obsession isn't.*
+
+---
+
+## 💭 Random Facts
+
+* I will spend **30 minutes debugging** before realizing I forgot a semicolon.
+* I believe `console.log()` deserves more respect than it gets.
+* I solve DSA questions and then immediately forget how I solved them.
+* "I'll do it tomorrow" is currently one of my most used productivity techniques.
+* I genuinely enjoy understanding **what happens behind the scenes**.
+* If something works on the first try, I become suspicious.
 
 ---
 
@@ -212,7 +310,11 @@ Still taking way too many photos.
 ---
 
 <p align="center">
-  <i>Build. Break. Debug. Learn. Repeat. 🌊</i>
+  <b>Build. Break. Debug. Learn. Repeat.</b>
+</p>
+
+<p align="center">
+  <i>And occasionally touch grass. 🌱</i>
 </p>
 
 <p align="center">
