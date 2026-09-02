@@ -1,4 +1,4 @@
-````markdown
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A4D68,100:00B4D8&height=200&section=header&text=Sukanshi%20Garg&fontSize=48&fontColor=EAF6FF&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -289,4 +289,3 @@ Still taking way too many photos.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0A4D68,100:0D1B2A&height=100&section=footer" />
 </p>
-````
