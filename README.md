@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Backend • 🧠 DSA • 🤖 AI • ☕ Questionable Life Choices</b>
+  <b>💻 Web Development • 🧠 DSA • 🤖 AI • ☕ Questionable Life Choices</b>
 </p>
 
 ---
@@ -31,7 +31,6 @@ Currently I'm:
 - 🧠 Practicing **DSA in Java**
 - 🗄️ Learning databases, authentication & backend architecture
 - 🤖 Exploring **AI-powered applications**
-- 📷 Trying to get into photography
 - 🧯 Debugging problems I definitely did not create. *(I created them.)*
 
 ### My development methodology
