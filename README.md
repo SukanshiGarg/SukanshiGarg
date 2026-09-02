@@ -1,9 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sukanshi+%F0%9F%91%8B;CSE+Student+%7C+Backend+Developer+%7C+Problem+Solver;Building+things+%26+debugging+them+since+forever+%F0%9F%98%AD;Currently+exploring+Backend%2C+DSA+%26+AI" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A4D68,100:00B4D8&height=200&section=header&text=Sukanshi%20Garg&fontSize=48&fontColor=EAF6FF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A4D68,100:00B4D8&height=180&section=header&text=Sukanshi%20Garg&fontSize=45&fontColor=EAF6FF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sukanshi+%F0%9F%91%8B;CSE+Student+%7C+Web+Developer+%7C+Problem+Solver;Building+things+%26+debugging+them+since+forever+%F0%9F%98%AD;Currently+exploring+Backend%2C+DSA+%26+AI" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SukanshiGarg">
+    <img src="https://img.shields.io/badge/GitHub-SukanshiGarg-0D1B2A?style=for-the-badge&logo=github&logoColor=4FC3F7" />
+  </a>
+  <a href="https://www.linkedin.com/in/sukanshi-garg/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sukanshi%20Garg-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" />
+  </a>
 </p>
 
 <p align="center">
@@ -75,6 +84,8 @@ An AI-powered SaaS platform for generating and managing social media content for
 **Stack:**
 `Next.js` `PostgreSQL` `Prisma` `Supabase` `Clerk` `AI`
 
+🔗 **[View Project](https://github.com/SukanshiGarg)**
+
 ---
 
 ### ✦ PlateFlow
@@ -84,6 +95,8 @@ A real-time restaurant POS and Kitchen Display System.
 **Stack:**
 `Node.js` `PostgreSQL` `Redis` `WebSockets`
 
+🔗 **[View Project](https://github.com/SukanshiGarg)**
+
 ---
 
 ### ✦ Music Artist Backend
@@ -92,6 +105,8 @@ A backend practice project built while learning authentication, authorization, f
 
 **Stack:**
 `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Multer` `ImageKit`
+
+🔗 **[View Project](https://github.com/SukanshiGarg)**
 
 ---
 
@@ -186,11 +201,11 @@ Still taking way too many photos.
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" />
+  <a href="https://github.com/SukanshiGarg">
+    <img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=4FC3F7" />
   </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-0D1B2A?style=for-the-badge&logo=leetcode&logoColor=4FC3F7" />
+  <a href="https://www.linkedin.com/in/sukanshi-garg/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" />
   </a>
 </p>
 
