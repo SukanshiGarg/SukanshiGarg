@@ -1,6 +1,3 @@
-Perfect 😭 Here’s your **ready-to-paste profile README** for `SukanshiGarg`.
-
-I’ve filled in your GitHub username everywhere. I’ve left LinkedIn/LeetCode as clearly marked placeholders because I don’t have those exact URLs.
 
 ````markdown
 <p align="center">
