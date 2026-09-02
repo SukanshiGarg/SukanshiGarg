@@ -234,28 +234,6 @@ And Google is definitely part of that process. 💀
 
 ---
 
-# 📷 Beyond Code
-
-When I'm not staring at a terminal, I'm trying to get into **photography**.
-
-```text
-Camera       : 📱
-Photography  : 📷
-Confidence   : ███████░░░
-Skill        : ████░░░░░░
-Storage      : "Your phone storage is full."
-```
-
-Still figuring out cameras.
-
-Still figuring out composition.
-
-Still taking way too many photos.
-
-📷 *The camera may be bad. The obsession isn't.*
-
----
-
 # 💭 Random Facts
 
 * I will spend **30 minutes debugging** before realizing I forgot a semicolon.
