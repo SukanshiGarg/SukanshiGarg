@@ -1,10 +1,9 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A4D68,100:00B4D8&height=200&section=header&text=Sukanshi%20Garg&fontSize=48&fontColor=EAF6FF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=24&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sukanshi+%F0%9F%91%8B;CSE+Student+%7C+Backend+Developer+%7C+Professional+Debugger;I+write+code.+Sometimes+it+even+works.+%F0%9F%98%AD;Currently+surviving+DSA%2C+Backend+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=24&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sukanshi+%F0%9F%91%8B;CSE+Student+%7C+Web+Developer+%7C+Professional+Debugger;I+write+code.+Sometimes+it+even+works.+%F0%9F%98%AD;Currently+surviving+DSA%2C+Web+Dev+%26+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,18 +16,18 @@
 </p>
 
 <p align="center">
-  <b>💻 Backend • 🧠 DSA • 🤖 AI • ☕ Questionable Life Choices</b>
+  <b>💻 Web Development • 🧠 DSA • 🤖 AI • ☕ Questionable Life Choices</b>
 </p>
 
 ---
 
 ## 👩🏻‍💻 Who am I?
 
-I'm a **Computer Science student** who likes building things and then discovering that I accidentally broke three other things.
+I'm a **Computer Science student** who enjoys building things, figuring out how they work, and occasionally discovering that I broke three other things in the process.
 
-Currently I'm:
+Currently, I'm:
 
-- 🛠️ Building backend APIs with **Node.js & Express**
+- 🌐 Building web applications with **JavaScript, React, Node.js & Express**
 - 🧠 Practicing **DSA in Java**
 - 🗄️ Learning databases, authentication & backend architecture
 - 🤖 Exploring **AI-powered applications**
@@ -69,16 +68,10 @@ Pretend I knew the answer
   <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
-### Backend & Databases
+### Web Development & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,prisma" />
 </p>
 
 ### Tools & Technologies
@@ -170,11 +163,17 @@ Currently fighting **LeetCode** one problem at a time.
     src="https://streak-stats.demolab.com/?user=SukanshiGarg&theme=github-dark&hide_border=true"
   />
 </p>
-```
+
+<p align="center">
+  <i>Apparently touching grass doesn't count as a GitHub contribution.</i> 🌱
+</p>
+
+---
+
 # 🌱 Currently Learning
 
 ```text
-Backend Development
+Web Development
         ↓
 Authentication & Authorization
         ↓
@@ -249,3 +248,4 @@ Still taking way too many photos.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0A4D68,100:0D1B2A&height=100&section=footer" />
 </p>
+
