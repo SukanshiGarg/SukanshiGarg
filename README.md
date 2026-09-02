@@ -163,18 +163,15 @@ Currently fighting **LeetCode** one problem at a time.
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 GitHub Streak
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SukanshiGarg&show_icons=true&theme=transparent&hide_border=true"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukanshiGarg&layout=compact&theme=transparent&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=SukanshiGarg&theme=github-dark&hide_border=true"
   />
 </p>
+```
+
 
 ---
 
