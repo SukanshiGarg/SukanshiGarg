@@ -1,3 +1,4 @@
+````markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A4D68,100:00B4D8&height=200&section=header&text=Sukanshi%20Garg&fontSize=48&fontColor=EAF6FF&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -16,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Web Development • 🧠 DSA • 🤖 AI • ☕ Questionable Life Choices</b>
+  <b>💻 Backend • 🧠 DSA • 🤖 AI • ☕ Questionable Life Choices</b>
 </p>
 
 ---
@@ -31,6 +32,7 @@ Currently I'm:
 - 🧠 Practicing **DSA in Java**
 - 🗄️ Learning databases, authentication & backend architecture
 - 🤖 Exploring **AI-powered applications**
+- 📷 Trying to get into photography
 - 🧯 Debugging problems I definitely did not create. *(I created them.)*
 
 ### My development methodology
@@ -55,7 +57,7 @@ It doesn't work again
 Google it
      ↓
 Pretend I knew the answer
-````
+```
 
 ---
 
@@ -143,24 +145,19 @@ A backend practice project where I learned authentication, authorization, file u
 
 # 🧠 DSA Journey
 
-Currently solving problems on **LeetCode**.
+Currently fighting **LeetCode** one problem at a time.
 
-```text
-Easy   → 😎
-Medium → 🤔
-Hard   → "Interesting."
-```
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sukanshi?theme=dark&font=baloo&ext=contest" />
+</p>
 
-```text
-Arrays         ████████████████████
-Strings        ██████████████████░░
-HashMaps       ███████████████████░
-Sliding Window █████████████████░░░
-Linked Lists   ███████████████░░░░░
-Trees          ████████████░░░░░░░░
-Graphs         ████████░░░░░░░░░░░░
-DP             ██████░░░░░░░░░░░░░░
-```
+<p align="center">
+  <i>
+    Easy → 😎 &nbsp;&nbsp;
+    Medium → 🤔 &nbsp;&nbsp;
+    Hard → "Interesting."
+  </i>
+</p>
 
 > Progress is not linear. Neither is my ability to solve a Medium question without staring at it for 45 minutes.
 
@@ -234,15 +231,37 @@ And Google is definitely part of that process. 💀
 
 ---
 
+# 📷 Beyond Code
+
+When I'm not staring at a terminal, I'm trying to get into **photography**.
+
+```text
+Camera       : 📱
+Photography  : 📷
+Confidence   : ███████░░░
+Skill        : ████░░░░░░
+Storage      : "Your phone storage is full."
+```
+
+Still figuring out cameras.
+
+Still figuring out composition.
+
+Still taking way too many photos.
+
+📷 *The camera may be bad. The obsession isn't.*
+
+---
+
 # 💭 Random Facts
 
-* I will spend **30 minutes debugging** before realizing I forgot a semicolon.
-* I believe `console.log()` deserves more respect than it gets.
-* I solve DSA questions and then immediately forget how I solved them.
-* "I'll do it tomorrow" is currently one of my most used productivity techniques.
-* I genuinely enjoy understanding **what happens behind the scenes**.
-* If something works on the first try, I become suspicious.
-* I sometimes fix a bug and then become afraid to touch the code again.
+- I will spend **30 minutes debugging** before realizing I forgot a semicolon.
+- I believe `console.log()` deserves more respect than it gets.
+- I solve DSA questions and then immediately forget how I solved them.
+- "I'll do it tomorrow" is currently one of my most used productivity techniques.
+- I genuinely enjoy understanding **what happens behind the scenes**.
+- If something works on the first try, I become suspicious.
+- I sometimes fix a bug and then become afraid to touch the code again.
 
 ---
 
@@ -270,4 +289,4 @@ And Google is definitely part of that process. 💀
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0A4D68,100:0D1B2A&height=100&section=footer" />
 </p>
-
+````
