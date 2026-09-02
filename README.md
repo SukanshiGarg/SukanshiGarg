@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Backend • 🧠 DSA • 🤖 AI • 🌊 Always Learning</b>
+  <b>💻 Web Devlopment • 🧠 DSA • 🤖 AI • 🌊 Always Learning</b>
 </p>
 
 ---
