@@ -115,7 +115,7 @@ User gets suspicious
 **Stack:**
 `Next.js` `PostgreSQL` `Prisma` `Supabase` `Clerk` `AI`
 
-🔗 **[View Project](https://github.com/SukanshiGarg)**
+🔗 **[View Project](caption-ai-roan.vercel.app)**
 
 ---
 
@@ -127,9 +127,9 @@ Because apparently managing restaurant orders wasn't stressful enough,
 I decided to make the software responsible for it too.
 
 **Stack:**
-`Node.js` `PostgreSQL` `Redis` `WebSockets`
+`Node.js` `MOngoDB` `Express.js` `React`
 
-🔗 **[View Project](https://github.com/SukanshiGarg)**
+🔗 **[View Project](pos-frontend-five-murex.vercel.app)**
 
 ---
 
@@ -138,18 +138,10 @@ I decided to make the software responsible for it too.
 A backend practice project where I learned authentication, authorization,
 file uploads, cloud storage and MongoDB relationships.
 
-Also known as:
-
-> "Let me just learn backend by building something."
-
-Three hours later:
-
-> "Why is my middleware not working?"
-
 **Stack:**
 `Node.js` `Express` `MongoDB` `Mongoose` `JWT` `Multer` `ImageKit`
 
-🔗 **[View Project](https://github.com/SukanshiGarg)**
+🔗 **[View Project](https://github.com/SukanshiGarg/music-artist-backend)**
 
 ---
 
@@ -177,39 +169,19 @@ Trees          ████████████░░░░░░░░
 Graphs         ████████░░░░░░░░░░░░
 DP             ██████░░░░░░░░░░░░░░
 ```
-
-My relationship with LeetCode:
-
-```text
-LeetCode: "This is a Medium."
-
-Me: "Okay."
-
-LeetCode: *shows 47 lines of editorial*
-
-Me: "I'll come back tomorrow."
-
-Tomorrow:
-
-Me: "Okay let's do this."
-
-LeetCode: *same question*
-
-Me: "Why do I recognize you?"
-```
-
-> **Understand the pattern. Don't memorize the solution.**
->
-> Also, if the solution is 7 lines and mine is 37,
-> we're simply approaching the problem creatively.
-
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SukanshiGarg&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF&icon_color=00B4D8&ring_color=00B4D8" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukanshiGarg&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF" />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=SukanshiGarg&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF&icon_color=00B4D8"
+  />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukanshiGarg&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=EAF6FF"
+  />
 </p>
 
 ---
